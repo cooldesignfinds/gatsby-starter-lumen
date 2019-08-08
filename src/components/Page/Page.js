@@ -8,6 +8,7 @@ const Page = ({ title, children }) => (
       <div className={styles['page__body']}>
         {children}
       </div>
+      <div>TEST</div>
     </div>
   </div>
 );
