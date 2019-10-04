@@ -15,6 +15,7 @@ const CategoriesListTemplate = () => {
     <Layout title={`Categories - ${title}`} description={subtitle}>
       <Sidebar />
       <Page title="Categories">
+
         <ul>
           {categories.map((category) => (
             <li key={category.fieldValue}>
@@ -25,6 +26,7 @@ const CategoriesListTemplate = () => {
           ))}
         </ul>
       </Page>
+test
     </Layout>
   );
 };
