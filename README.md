@@ -23,7 +23,7 @@
 + [Backers](http://github.com/alxshelepenok/gatsby-starter-lumen#backers)
 + [Sponsors](http://github.com/alxshelepenok/gatsby-starter-lumen#sponsors)
 + [Credits](http://github.com/alxshelepenok/gatsby-starter-lumen#credits)
-+ [License](http://github.com/alxshelepenok/gatsby-starter-lumen#license)
++ [License](http://github.com/alxshelepenok/gatsby-starter-lumen#license) 
 
 ## Features
 + [Lost Grid](http://lostgrid.org).
